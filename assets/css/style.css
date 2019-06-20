@@ -1,0 +1,109 @@
+Body { 
+    font-family: Georgia,;
+    font-size: 18px;
+    color: lightseagreen;
+    background-image: url(../images/white-waves.png);
+
+}
+header {
+    background: black;
+    padding-left: 20px;
+    padding-right: 20px;
+    height: 60px;
+}
+
+h1 {
+    float: left;
+    margin-left: 10%;
+    background-color: lightseagreen;
+    color:Black;
+    height: 60px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top:15px;
+    
+}
+
+
+
+nav {
+
+}
+
+li { float: left;
+    margin-right: 25px;
+    list-style: none;
+
+}
+
+ul { float: right;
+    margin-right: 10%;
+    color:
+}
+
+ a { 
+     color:lightseagreen;
+
+ }
+
+ img { 
+     margin-right: 20px;
+     float: left;
+ }
+
+p {
+}
+
+h2 { 
+    padding-bottom: 30px;
+    border-bottom-style: outset;
+    border-bottom-width:  2px;
+    border-bottom-color: white;
+    
+}
+
+  .container { 
+     position:relative;
+     margin: 1% 20% 1% 20%;
+     background: black;
+     padding: 30px;
+     box-shadow: 10px 10px 5px rgb(128, 128, 128);
+}
+
+    input { 
+      width: 800px;
+      height: 25px;
+  }
+    #Message { 
+    height: 150px;
+}
+
+footer {
+    text-align: center;
+    position: fixed;
+    right: 45%;
+    color: black;
+    bottom: 15px;
+
+}
+
+.Port-info {
+    font-size:14px;
+    color:lightseagreen;
+    z-index: 3;
+
+}
+
+.Port-image {
+    position:absolute;
+    object-fit:contain;
+    max-width: 60%;
+    max-height: 60%;
+    display: block;
+    border-color: grey;
+    border-width: 1px;
+    margin: 10px;
+
+}
+
+    
